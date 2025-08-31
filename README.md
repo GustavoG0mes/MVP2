@@ -50,3 +50,5 @@ Uso de Pipeline + ColumnTransformer para garantir reprodutibilidade (mesmos pass
 Métrica:
 
 RMSE do log(SalePrice), alinhada à avaliação do Kaggle.
+
+<img width="1201" height="449" alt="image" src="https://github.com/user-attachments/assets/ad07dc63-1ed3-4b7a-b62f-03fcbc6f21bb" />
